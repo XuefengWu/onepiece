@@ -1,7 +1,6 @@
 * [首页](/)
 * [人](/people/peoplegrow.md)
-* [道](/)
-* [法](/)
-* [术](/)
-* [器](/)
-
+* [道](/values/工匠精神.md)
+* [法](/engineering/conscientia-engineering.md)
+* [术](/methodology/concern/关注点驱动设计.md)
+* [器](/tools/architecture/visualize.md)
