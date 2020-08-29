@@ -1,73 +1,73 @@
 <!-- docs/_sidebar.md -->
-* [首页](/)  
+* [首页  
 * [人](/people/peoplegrow.md)
   * [训战结合人才培养和认证体系](/people/peoplegrow.md)
-  * [参考研究](/)
-    * [X-Y理论](/)
-    * [情景领导力](/)
-    * [团队管理生命周期](/)
+  * 参考研究
+    * X-Y理论
+    * 情景领导力
+    * 团队管理生命周期
 * [道](/values/工匠精神.md)
-  * [参考研究](/)
-    * [工匠精神](/)
-    * [精益思想](/)
-    * [致良知](/)
-    * [康德自由意志](/)
-* [法](/)
+  * 参考研究
+    * 工匠精神
+    * 精益思想
+    * 致良知
+    * 康德自由意志
+* 法
   * [柔性共知工程](/engineering/conscientia-engineering.md)
-    * [有形状](/)
-    * [时刻变化](/)
+    * 有形状
+    * 时刻变化
     * [信息流动](/engineering/cases/communication_model/communication_model.md)
-    * [更新组织认知水平](/)
-  * [参考研究](/)
+    * 更新组织认知水平
+  * 参考研究
     * [沟通模式](/engineering/cases/communication_model/communication_model.md)
     * [字节跳动](engineering/cases/bytedance/张一鸣_做CEO要避免理性的自负.md)
-    * [SpaceX](/)
-    * [精益看板](/)
-    * [Scrum](/)
-    * [极限编程](/)
-    * [DevOps](/)
-    * [系统工程](/)
-    * [V模型](/)
-    * [SAFe](/)
-    * [设计思维](/)
-    * [第二曲线-甜甜圈](/)
-    * [人月神话-外科手术](/)
+    * SpaceX
+    * 精益看板
+    * Scrum
+    * 极限编程
+    * DevOps
+    * 系统工程
+    * V模型
+    * SAFe
+    * 设计思维
+    * 第二曲线-甜甜圈
+    * 人月神话-外科手术
     * [遗忘曲线](/engineering/cases/forgettingcurve/遗忘曲线.md)
     * [巴别塔](/engineering/cases/babel/巴别塔.md)
   
-* [术](/)
+* 术
   * [关注点驱动设计](/methodology/concern/关注点驱动设计.md)
-    * [目标-获取价值](/)
-    * [约束-防止风险](/)
-    * [关注点分离](/)
-    * [关注点结合](/)
-    * [关注点演进](/)
-    * [参考研究](/)
-      * [神经元7+/-2](/)
-      * [高内聚松耦合](/)
-      * [OO SOILD设计原则](/)
-      * [DDD](/)
-      * [参考架构模型](/)
-        * [整洁架构](/)
-        * [六边形架构](/)
-      * [微服务架构风格](/)      
+    * 目标-获取价值
+    * 约束-防止风险
+    * 关注点分离
+    * 关注点结合
+    * 关注点演进
+    * 参考研究
+      * 神经元7+/-2
+      * 高内聚松耦合
+      * OO SOILD设计原则
+      * DDD
+      * 参考架构模型
+        * 整洁架构
+        * 六边形架构
+      * 微服务架构风格      
       * [架构特征](/methodology/concern/cases/characteristics/架构特征.md)
   * [价值流建模](/methodology/model/价值流建模.md)
-    * [系统概念模型](/)
-    * [建模工作坊](/)
-    * [模型使用](/)
-    * [模型维护](/) 
-    * [参考研究](/)
-      * [DDD事件风暴](/)
-      * [精益价值流](/)
-      * [四色建模](/)
-      * [UML](/)
+    * 系统概念模型
+    * 建模工作坊
+    * 模型使用
+    * 模型维护 
+    * 参考研究
+      * DDD事件风暴
+      * 精益价值流
+      * 四色建模
+      * UML
       * [OPM说明](/methodology/model/cases/opm/opm)
-* [器](/)
+* 器
   * [架构可视化平台](/tools/architecture/visualize.md)
-  * [自动化测试套件](/)
-    * [测试数据生成](/)
-    * [测试数据管理](/)
-    * [大规模AB测试](/)
-  * [PL/SQL转Kotlin](/)
+  * 自动化测试套件
+    * 测试数据生成
+    * 测试数据管理
+    * 大规模AB测试
+  * PL/SQL转Kotlin
 * [势](/context/数字时代.md)
